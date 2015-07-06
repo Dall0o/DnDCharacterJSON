@@ -1,0 +1,22 @@
+{  
+    "title":"Build",
+    "name":"",
+    "id":"",
+    "description":"Awesome build of someone",
+    "Progression":[  
+        {  
+            "globalLevel":"",
+            "class":"",
+            "classLevel":"",
+            "baseAttackBonus":"",
+            "fortitude":"",
+            "reflex":"",
+            "will":"",
+            "special":"",
+            "miscellaneous":"",
+            "description":"",
+            "date":"",
+            "author":""
+        }
+    ]
+}
