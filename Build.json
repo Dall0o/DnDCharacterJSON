@@ -9,9 +9,11 @@
             "class":"",
             "classLevel":"",
             "baseAttackBonus":"",
-            "fortitude":"",
-            "reflex":"",
-            "will":"",
+            "savingThrows":{  
+                "fortitude":"",
+                "reflex":"",
+                "will":""
+            },
             "special":"",
             "miscellaneous":"",
             "description":"",
