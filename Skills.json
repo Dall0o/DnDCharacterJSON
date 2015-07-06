@@ -7,13 +7,15 @@
         {  
             "name":"",
             "keyAbility":"",
-            "skillModifier": 0,
-            "abilityModifier": 0,
-            "ranks": 0,
+            "skillModifier":0,
+            "abilityModifier":0,
+            "ranks":0,
             "miscellaneousModifier":"",
             "description":"",
-            "isInnate": true,
-            "unlockedBy" : [""]
+            "isInnate":true,
+            "unlockedBy":[  
+                ""
+            ]
         }
     ]
 }
